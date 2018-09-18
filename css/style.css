@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 100%;
+width: 100%;
+object-fit: contain;
+}
+.navlink {
+    width: 100%;
+}
+.main-header{
+    background-image: url("../assets/abstract-art-background-159027.jpg");
+    color: white;
+}
+
+.header-class, .bullet-list {
+    padding-bottom: 5%;
+}
+
+.main-text{
+    padding-bottom: 3%
+}
+
+.action{
+    background-image: linear-gradient(to bottom right, lightblue, darkgray);
+    padding: 10%;
+}
+
+.action-button{
+    padding: 10%;
+}
+
+.lorem-button, .bottom-buttons {
+    text-transform: uppercase;
+    color: darkgreen;
+    background-color: white;
+    border: none;
+    
+
+}
+
+.bottom-image{
+    background-image: url("../assets/alex-kotliarskyi-361081-unsplash.jpg");
+    background-size: 100% 100%;
+    padding: 10%;
+    opacity: .75;
+}
+
+.bottom-text{
+    background-color: rgba(51, 99, 170, 0.8);
+    color: white;
+}
+
+.bottom-header {
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.bottom-section{
+    padding: 20%;
+    justify-content: center;
+}
+
+.quote-photo{
+    border-radius: 50%
+}
+
+
+.top {
+    background-image: url("../assets/rawpixel-678089-unsplash.jpg");
+    background-size: 100% 100%;
+}
+
+.bottom {
+    background-image: url("../assets/conference-room-contemporary-digital-nomad-1181406.jpg");
+    background-size: 100% 100%;
+}
+
+
+
+.bold-text {
+    font-weight: bold;
+}
